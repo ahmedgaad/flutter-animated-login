@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/805230571?h=0c9726d572" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://player.vimeo.com/video/805230571?h=0c9726d572))]
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]
